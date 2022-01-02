@@ -5,6 +5,10 @@
     scroll-behavior: smooth;
 }
 
-.App{
-    height: 150vh;
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 50px;
+    
 }
