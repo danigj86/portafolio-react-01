@@ -6,9 +6,11 @@
 }
 
 .row{
-    display: flex;
-    flex-wrap: wrap;
+    display:flex;
     justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     padding-bottom: 50px;
+    margin: auto;
     
 }
