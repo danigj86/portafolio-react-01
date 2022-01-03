@@ -7,8 +7,9 @@
 }
 
 .about h1{
+    text-align: center;
     padding-bottom: 50px;
-    font-size: 39px;
+    font-size: 39px;  
 }
 
 .about-info{

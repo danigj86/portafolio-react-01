@@ -1,0 +1,23 @@
+.footer{
+    color: rgb(180, 170, 170);
+    background-color:black;
+    
+}
+.container{
+    max-width:1200px;
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.container a{
+    text-decoration:none;
+    color: red;
+ }
+
+ .footer-item{
+     min-width:350px;
+     padding: 10px;
+     margin: auto;
+ }

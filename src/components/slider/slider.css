@@ -17,15 +17,33 @@
 .slider h1{
     padding-bottom: 50px;
     font-size: 39px;
+    text-align: center;
 }
 
 .carousel-container{
     width: 100%;
+    position: relative;
 }
 
 .carousel-container img{
     margin: auto;
+    position: relative;
    
+}
+
+.carousel-container img:before{
+	content:'';
+	position: absolute;
+    top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0, 0, 0, 0.616);
+    z-index: 0;
+}
+
+.carousel-container h3{
+    z-index: 4;
 }
 .slide-contain{
     display: flex;

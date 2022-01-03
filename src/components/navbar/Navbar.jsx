@@ -10,7 +10,7 @@ const goToTop = () =>{
 
     return (
         <nav className= {`navbar ${scrollHeight > 20 ? "scrolling" : null}`}>
-            <div className="logo" onClick={goToTop}>Your Name</div>
+            <div className="logo" onClick={goToTop}>BRAND</div>
         </nav>
     )
 }
