@@ -18,3 +18,7 @@
 .scrolling{
     background-color: black;
 }
+
+@media (max-width: 600px) {
+   
+  }

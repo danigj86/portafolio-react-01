@@ -1,6 +1,7 @@
 .footer{
     color: rgb(180, 170, 170);
     background-color:black;
+    padding: 50px;
     
 }
 .container{
@@ -13,11 +14,11 @@
 
 .container a{
     text-decoration:none;
-    color: red;
+    color: #054241;
  }
 
  .footer-item{
-     min-width:350px;
+     line-height: 30px;
      padding: 10px;
      margin: auto;
  }

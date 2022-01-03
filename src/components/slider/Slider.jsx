@@ -37,8 +37,8 @@ export const Slider = () => {
                                     alt="First slide"
                                 />
                                 <Carousel.Caption>
-                                    <h3>PROYECTO UNO</h3>
-                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                    <h3>Proyect 1</h3>
+                                    <p>Nulla vitae elit libero</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
@@ -49,8 +49,8 @@ export const Slider = () => {
                                 />
 
                                 <Carousel.Caption>
-                                    <h3>Second slide label</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <h3>Proyect 2</h3>
+                                    <p>Lorem ipsum dolor sit amet.</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
@@ -61,8 +61,8 @@ export const Slider = () => {
                                 />
 
                                 <Carousel.Caption>
-                                    <h3>Third slide label</h3>
-                                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                                    <h3>Proyect 3</h3>
+                                    <p>Praesent commodo cursus.</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
                         </Carousel>
