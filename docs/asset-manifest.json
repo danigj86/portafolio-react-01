@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portafolio-react-01/static/css/main.db3ab801.css",
+    "main.js": "/portafolio-react-01/static/js/main.34ff2c93.js",
+    "static/media/marketing.mp4": "/portafolio-react-01/static/media/marketing.976178f95b8a6703d024.mp4",
+    "static/media/t2.jpeg": "/portafolio-react-01/static/media/t2.5b8ae7ba7612fc258b3d.jpeg",
+    "static/media/t1.jpeg": "/portafolio-react-01/static/media/t1.cc50fd3bf3603fd12162.jpeg",
+    "static/media/t3.jpeg": "/portafolio-react-01/static/media/t3.3717142ad494dd0be1b2.jpeg",
+    "index.html": "/portafolio-react-01/index.html",
+    "main.db3ab801.css.map": "/portafolio-react-01/static/css/main.db3ab801.css.map",
+    "main.34ff2c93.js.map": "/portafolio-react-01/static/js/main.34ff2c93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3ab801.css",
+    "static/js/main.34ff2c93.js"
+  ]
+}
