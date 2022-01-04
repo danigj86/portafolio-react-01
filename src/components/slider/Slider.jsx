@@ -29,7 +29,7 @@ export const Slider = () => {
                 <div className="row">
 
                     <div className="carousel-container">
-                        <Carousel>
+                        <Carousel fade>
                             <Carousel.Item>
                                 <img
                                     className=" d-block "
@@ -37,8 +37,7 @@ export const Slider = () => {
                                     alt="First slide"
                                 />
                                 <Carousel.Caption>
-                                    <h3>Proyect 1</h3>
-                                    <p>Nulla vitae elit libero</p>
+                                  
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
