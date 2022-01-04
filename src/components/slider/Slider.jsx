@@ -37,7 +37,8 @@ export const Slider = () => {
                                     alt="First slide"
                                 />
                                 <Carousel.Caption>
-                                  
+                                    <h3>Proyect 1</h3>
+                                    <p>Lorem ipsum dolor sit amet.</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
